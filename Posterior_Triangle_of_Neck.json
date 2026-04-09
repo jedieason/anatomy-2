@@ -1,0 +1,92 @@
+[
+    {
+        "num": "1",
+        "path": "期中考圖片/1-1.webp",
+        "answer": [
+            "Platysma"
+        ],
+        "explanation": "",
+        "description": "1"
+    },
+    {
+        "num": "2",
+        "path": "期中考圖片/1-1.webp",
+        "answer": [
+            "Sternocleidomastoid muscle"
+        ],
+        "explanation": "",
+        "description": "2"
+    },
+    {
+        "num": "3",
+        "path": "期中考圖片/1-3.webp",
+        "answer": [
+            "Omohyoid muscle"
+        ],
+        "explanation": "",
+        "description": "3"
+    },
+    {
+        "num": "4",
+        "path": "期中考圖片/1-2.webp",
+        "answer": [
+            "Accessory nerve"
+        ],
+        "explanation": "",
+        "description": "4"
+    },
+    {
+        "num": "5",
+        "path": "期中考圖片/1-2.webp",
+        "answer": [
+            "Lesser occipital nerve"
+        ],
+        "explanation": "",
+        "description": "5"
+    },
+    {
+        "num": "6",
+        "path": "期中考圖片/1-1.webp",
+        "answer": [
+            "Greater auricular nerve"
+        ],
+        "explanation": "",
+        "description": "6"
+    },
+    {
+        "num": "6",
+        "path": "期中考圖片/1-2.webp",
+        "answer": [
+            "Greater auricular nerve"
+        ],
+        "explanation": "",
+        "description": "6"
+    },
+    {
+        "num": "7",
+        "path": "期中考圖片/1-1.webp",
+        "answer": [
+            "Transverse cervical nerve"
+        ],
+        "explanation": "",
+        "description": "7"
+    },
+    {
+        "num": "8",
+        "path": "期中考圖片/1-2.webp",
+        "answer": [
+            "Supraclavicular nerve"
+        ],
+        "explanation": "",
+        "description": "8"
+    },
+    {
+        "num": "9",
+        "path": "期中考圖片/1-1.webp",
+        "answer": [
+            "External jugular vein"
+        ],
+        "explanation": "",
+        "description": "9"
+    }
+]
