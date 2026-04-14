@@ -1,0 +1,200 @@
+[
+    {
+        "num": "p001",
+        "path": "期中考圖片/6-1.webp",
+        "answer": [
+            "Inferior oblique muscle"
+        ],
+        "explanation": "",
+        "description": "1"
+    },
+    {
+        "num": "p002",
+        "path": "ch1_images/6-1.webp",
+        "answer": [
+            "Inferior rectus muscle"
+        ],
+        "explanation": "",
+        "description": "2"
+    },
+    {
+        "num": "p003",
+        "path": "ch1_images/6-1.webp",
+        "answer": [
+            "Oculomotor nerve"
+        ],
+        "explanation": "",
+        "description": "3"
+    },
+    {
+        "num": "p004",
+        "path": "ch1_images/6-2.webp",
+        "answer": [
+            "Lacrimal gland"
+        ],
+        "explanation": "",
+        "description": "4"
+    },
+    {
+        "num": "p005",
+        "path": "ch1_images/6-2.webp",
+        "answer": [
+            "Lacrimal nerve"
+        ],
+        "explanation": "",
+        "description": "5"
+    },
+    {
+        "num": "p006",
+        "path": "ch1_images/6-2.webp",
+        "answer": [
+            "Lacrimal artery"
+        ],
+        "explanation": "",
+        "description": "6"
+    },
+    {
+        "num": "p007",
+        "path": "ch1_images/6-2.webp",
+        "answer": [
+            "Trochlear nerve"
+        ],
+        "explanation": "",
+        "description": "7"
+    },
+    {
+        "num": "p008",
+        "path": "ch1_images/6-2.webp",
+        "answer": [
+            "Common tendinous ring"
+        ],
+        "explanation": "",
+        "description": "8"
+    },
+    {
+        "num": "p009",
+        "path": "ch1_images/6-2.webp",
+        "answer": [
+            "Abducens nerve"
+        ],
+        "explanation": "",
+        "description": "9"
+    },
+    {
+        "num": "p010",
+        "path": "ch1_images/6-2.webp",
+        "answer": [
+            "Oculomotor nerve"
+        ],
+        "explanation": "",
+        "description": "10"
+    },
+    {
+        "num": "p011",
+        "path": "ch1_images/6-2.webp",
+        "answer": [
+            "Supraorbital nerve"
+        ],
+        "explanation": "",
+        "description": "11"
+    },
+    {
+        "num": "p012",
+        "path": "ch1_images/6-2.webp",
+        "answer": [
+            "Supratrochlear nerve"
+        ],
+        "explanation": "",
+        "description": "12"
+    },
+    {
+        "num": "p013",
+        "path": "ch1_images/6-2.webp",
+        "answer": [
+            "Nasociliary nerve"
+        ],
+        "explanation": "",
+        "description": "13"
+    },
+    {
+        "num": "p014",
+        "path": "ch1_images/6-2.webp",
+        "answer": [
+            "Ophthalmic artery"
+        ],
+        "explanation": "",
+        "description": "14"
+    },
+    {
+        "num": "p015",
+        "path": "ch1_images/6-2.webp",
+        "answer": [
+            "Ophthalmic vein"
+        ],
+        "explanation": "",
+        "description": "15"
+    },
+    {
+        "num": "p016",
+        "path": "ch1_images/6-2.webp",
+        "answer": [
+            "Superior oblique muscle"
+        ],
+        "explanation": "",
+        "description": "16"
+    },
+    {
+        "num": "p017",
+        "path": "ch1_images/6-2.webp",
+        "answer": [
+            "Medial rectus muscle"
+        ],
+        "explanation": "",
+        "description": "17"
+    },
+    {
+        "num": "p018",
+        "path": "ch1_images/6-2.webp",
+        "answer": [
+            "Optic nerve"
+        ],
+        "explanation": "",
+        "description": "18"
+    },
+    {
+        "num": "p019",
+        "path": "ch1_images/6-2.webp",
+        "answer": [
+            "Frontal nerve"
+        ],
+        "explanation": "",
+        "description": "19"
+    },
+    {
+        "num": "p020",
+        "path": "ch1_images/6-2.webp",
+        "answer": [
+            "Levator palpebrae superioris"
+        ],
+        "explanation": "",
+        "description": "20"
+    },
+    {
+        "num": "p021",
+        "path": "ch1_images/6-2.webp",
+        "answer": [
+            "Superior rectus muscle"
+        ],
+        "explanation": "",
+        "description": "21"
+    },
+    {
+        "num": "p022",
+        "path": "ch1_images/6-2.webp",
+        "answer": [
+            "Lateral rectus muscle"
+        ],
+        "explanation": "",
+        "description": "22"
+    }
+]
